@@ -24,6 +24,13 @@ export default function Header({ color }) {
                 "noreferrer,noopener"
               );
   };
+  const resume = () => {
+    window.open(
+                `https://drive.google.com/file/d/18o6ESn4qG3wJ6jX2fm5v6USed7vAh-Tf/view?usp=sharing`,
+                "_blank",
+                "noreferrer,noopener"
+              );
+  };
   return (
     <>
       <Heading>
@@ -38,7 +45,7 @@ export default function Header({ color }) {
           as={Box}
           textAlign={"center"}
           spacing={{ base: 8, md: 14 }}
-          pb={{ base: 20, md: 36 }}
+          pb={{ base: 8, md: 14 }}
           pt={{ base: 36, md: 52 }}
         >
           <Heading
@@ -72,7 +79,21 @@ export default function Header({ color }) {
               _hover={{
                 bg: `${color}.500`,
               }}
+              onClick={resume}
+              width='150px'
+            >
+              My Resume
+            </Button>
+            <Button
+              colorScheme={color}
+              bg={`${color}.400`}
+              rounded={"full"}
+              px={6}
+              _hover={{
+                bg: `${color}.500`,
+              }}
               onClick={linkedin}
+              width='150px'
             >
               Let's connect!
             </Button>

@@ -40,12 +40,12 @@ export default function Projects({ color }) {
           as={Box}
           textAlign={"center"}
           spacing={{ base: 8, md: 14 }}
-          pb={{ base: 20, md: 36 }}
+          pb={{ base: 8, md: 14 }}
         >
           <Stack align="center" direction="row" p={4}>
             <HStack mx={4}>
               <Text color={`${color}.400`} fontWeight={800}>
-                03
+                02
               </Text>
               <Text fontWeight={800}>Projects</Text>
             </HStack>
@@ -71,14 +71,16 @@ export default function Projects({ color }) {
 
                       <HStack py={2}>
                         {project.buttons.map((button) => (
-                          <a key={button.text} href={button.href}>
-                            <Button color={`${color}.400`}>
+                          <div key={button.text} >
+                            <Button color={`${color}.400`} onClick={() => {
+                            window.open(`${button.href}`, "_blank", "noreferrer,noopener");
+                          }}>
                               {button.text}
                             </Button>
-                          </a>
+                          </div>
                         ))}
                       </HStack>
-                      <HStack pt={4} spacing={2}>
+                      {/* <HStack pt={4} spacing={2}>
                         {project.badges.map((badge) => (
                           <Badge
                             key={badge.text}
@@ -87,14 +89,14 @@ export default function Projects({ color }) {
                             {badge.text}
                           </Badge>
                         ))}
-                      </HStack>
+                      </HStack> */}
                     </CardBody>
                   </Stack>
                 </Card>
               </Fade>
             ))}
           </Stack>
-          <Text color={"gray.600"} fontSize={"xl"} px={4}>
+          {/* <Text color={"gray.600"} fontSize={"xl"} px={4}>
             Other Projects
           </Text>
           <Center px={4}>
@@ -162,7 +164,7 @@ export default function Projects({ color }) {
                   </Card>
                 </Fade>
               ))}
-          </SimpleGrid>
+          </SimpleGrid> */}
         </Stack>
       </Container>
     </>

@@ -29,7 +29,7 @@ export default function Contact({ color }) {
           as={Box}
           textAlign={"center"}
           spacing={{ base: 8, md: 14 }}
-          pb={{ base: 20, md: 36 }}
+          pb={{ base: 8, md: 14 }}
         >
           <Stack align="center" direction="row" p={4}>
             <HStack mx={4}>
@@ -42,17 +42,17 @@ export default function Contact({ color }) {
           </Stack>
           <Stack spacing={4} as={Container} maxW={"3xl"} textAlign={"center"}>
             <Heading fontSize={"3xl"}>Let's stay in touch!</Heading>
-            <Text color={"gray.600"} fontSize={"xl"} px={4}>
+            {/* <Text color={"gray.600"} fontSize={"xl"} px={4}>
               {profile.contact}
-            </Text>
+            </Text> */}
             <Text color={`${color}.500`} fontWeight={600} fontSize={"lg"} px={4}>
               {profile.email}
             </Text>
             <Center>
               <HStack pt={4} spacing={4}>
-                <FaLinkedin onClick={linkedin} size={28} />
-                <FaGithub onClick={github} size={28} />
-                <FaEnvelope onClick={email} size={28} />
+                <FaLinkedin className="clickable" onClick={linkedin} size={28} />
+                <FaGithub className="clickable" onClick={github} size={28} />
+                <FaEnvelope className="clickable" onClick={email} size={28} />
               </HStack>
             </Center>
           </Stack>

@@ -15,9 +15,9 @@ export default function About({ color }) {
         <Container maxW={"3xl"} id="about">
           <Stack
             as={Box}
-            textAlign={"center"}
+            textAlign={"left"}
             spacing={{ base: 8, md: 14 }}
-            pb={{ base: 20, md: 36 }}
+            pb={{ base: 8, md: 14 }}
           >
             <Stack align="center" direction="row" px={4}>
               <HStack mx={4}>
@@ -28,8 +28,10 @@ export default function About({ color }) {
               </HStack>
               <Divider orientation="horizontal" />
             </Stack>
-            <Text color={"gray.600"} fontSize={"xl"} px={4}>
-              {profile.about}
+            <Text color={"gray.400"} fontSize={"xl"} px={4}>
+              {profile.about1}
+              <br/>
+              {profile.about2}
             </Text>
           </Stack>
         </Container>

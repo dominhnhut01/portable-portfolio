@@ -29,7 +29,8 @@ const parseProfile = (mdContent) => {
           profile.headerDesc = lines[++i].substr(2).trim();
           break;
         case "About":
-          profile.about = lines[++i].trim();
+          profile.about1 = lines[++i].trim();
+          profile.about2 = lines[++i].trim();
           break;
         case "Contact":
           profile.contact = lines[++i].trim();
