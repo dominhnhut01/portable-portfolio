@@ -6,8 +6,8 @@
 - Senior CS Student.
 
 ## About
-​I am a rising senior in Computer Science at Miami University. I'm looking for new-grad, entry-level roles in Software Engineering (Web Full-stack Development), Robotics, and Computer Vision. 
-My techstack includes TypeScript, Python, Java, and C++. My tech stack includes Node.js, Express.js, Django, React.js, PostgreSQL, SQLite, MongoDB, PyTorch, Tensorflow, HTML/CSS.
+I'm a rising senior Computer Science student at Miami University seeking entry-level positions in Software Engineering.
+I specialize in Back-end Engineering and Machine Learning. My expertise lies in TypeScript, Python, Java, and C++, utilizing Node.js, Express.js, Django, React.js, PostgreSQL, SQLite, MongoDB, PyTorch, Tensorflow, and HTML/CSS in my tech stack.
 
 ## Contact
 Write your "Contact" section here.

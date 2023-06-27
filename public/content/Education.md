@@ -6,7 +6,7 @@
   - Badge [blue]
 - List Items:
   - *Coursework*: Parallel and High-Performance Computing, Machine Learning, Computer Vision, Advanced Algorithm, Web Development, Computer Graphics, Computer System, Digital System Design.
-  - *Honors*: President’s List 2020-2021, Dean’s List 2021-2023. 
+  - *Honors*: Dean’s List 2021-2023, President’s List 2020-2021, Red Hawk's Excellence Scholarship
 
 ## CodePath
 - *Advanced Software Engineer & Web Development* | Jun 2022 - May 2023
