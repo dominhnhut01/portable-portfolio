@@ -52,7 +52,7 @@ export default function Projects({ color }) {
                       <Heading size="md">{project.name}</Heading>
 
                       <Text py={2}>{project.description}</Text>
-
+                      <Text py={2}>{project.techstack}</Text>
                       <HStack py={2}>
                         {project.buttons.map((button) => (
                           <div key={button.text} >
