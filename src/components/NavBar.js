@@ -45,6 +45,10 @@ export default function Nav({ color }) {
     const aboutSection = document.querySelector("#about");
     aboutSection.scrollIntoView({ behavior: "smooth" });
   };
+  const scrollToEducation = () => {
+    const educationSection = document.querySelector("#education");
+    educationSection.scrollIntoView({ behavior: "smooth" });
+  };
   const scrollToExperience = () => {
     const experienceSection = document.querySelector("#experience");
     experienceSection.scrollIntoView({ behavior: "smooth" });
@@ -52,6 +56,10 @@ export default function Nav({ color }) {
   const scrollToProjects = () => {
     const projectsSection = document.querySelector("#projects");
     projectsSection.scrollIntoView({ behavior: "smooth" });
+  };
+  const scrollToSkills = () => {
+    const skillsSection = document.querySelector("#skills");
+    skillsSection.scrollIntoView({ behavior: "smooth" });
   };
   const scrollToContact = () => {
     const contactSection = document.querySelector("#contact");
@@ -101,11 +109,17 @@ export default function Nav({ color }) {
                 <Button variant="ghost" onClick={scrollToAbout}>
                   About
                 </Button>
-                <Button variant="ghost" onClick={scrollToExperience}>
-                  Experience
+                <Button variant="ghost" onClick={scrollToEducation}>
+                  Education
                 </Button>
                 <Button variant="ghost" onClick={scrollToProjects}>
                   Projects
+                </Button>
+                <Button variant="ghost" onClick={scrollToExperience}>
+                  Experience
+                </Button>
+                <Button variant="ghost" onClick={scrollToSkills}>
+                  Skills
                 </Button>
                 <Button variant="ghost" onClick={scrollToContact}>
                   Contact

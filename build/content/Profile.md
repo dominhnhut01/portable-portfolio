@@ -2,13 +2,12 @@
 - Steve Do Portfolio
 
 ## Header
-- Hi, my name is Steve Do. 
-- I'm a senior CS Student.
-- Full-stack and Machine Learning Engineering
+- Steve Do. 
+- Senior CS Student.
 
 ## About
 ​I am a rising senior in Computer Science at Miami University. I'm looking for new-grad, entry-level roles in Software Engineering (Web Full-stack Development), Robotics, and Computer Vision. 
-My techstack includes TypeScript, Python, Java, and C++. My tech stack includes Node.js, Express.js, Django, React.js, PostgreSQL, SQLite, MongoDB, PyTorch, Tensorflow, HTML/CSS..
+My techstack includes TypeScript, Python, Java, and C++. My tech stack includes Node.js, Express.js, Django, React.js, PostgreSQL, SQLite, MongoDB, PyTorch, Tensorflow, HTML/CSS.
 
 ## Contact
 Write your "Contact" section here.
