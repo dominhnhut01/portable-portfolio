@@ -12,21 +12,10 @@ import {
   Heading,
 } from "@chakra-ui/react";
 import { Fade } from "react-reveal";
-import { useState } from "react";
 import ProjectsArray from "./ProjectsArray";
-import OtherProjectsArray from "./OtherProjectsArray";
-import TagsArray from "./TagsArray";
 
 export default function Projects({ color }) {
     const projects = ProjectsArray();
-    const others = OtherProjectsArray();
-    const options = TagsArray("ProjectsTags");
-    
-    const [selected, setSelected] = useState("All");
-
-    const handleSelected = (value) => {
-      setSelected(value);
-    };
     
   return (
     <>

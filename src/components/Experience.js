@@ -30,10 +30,6 @@ export default function Experience({ color }) {
       setSelected(options[0].value);
     }
   }, [options]);
-  
-  const handleSelected = (value) => {
-    setSelected(value);
-  };
 
   return (
     <>

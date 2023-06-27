@@ -31,9 +31,6 @@ export default function Education({ color }) {
     }
   }, [options]);
   
-  const handleSelected = (value) => {
-    setSelected(value);
-  };
 
   return (
     <>
