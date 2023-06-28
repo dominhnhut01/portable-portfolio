@@ -27,7 +27,7 @@
   - Badge [blue]
 - List Items:
   - Delivered 12 computer vision project tutorials and codes for instructing college students.
-  - Projects included real-time projectile motion predictor, building and training lane detection machine learning model for a simulated self-driving car, MNIST digit classification, document mobile scanner, and rock paper scissor game using camera detection.
+  - Projects included real-time projectile motion predictor, building and training lane detection machine learning model for a simulated self-driving car, MNIST digit classification, document mobile scanner, and hand-sign real-time detector.
   - Worked directly with the CTO in pair-programming, ensuring code quality and readability.
 
 ## Miami University
