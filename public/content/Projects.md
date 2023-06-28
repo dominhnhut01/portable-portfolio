@@ -1,6 +1,6 @@
 ## ChessLand
 An online chess platform with multiplayer games and AI opponents, including minimax search engine (optimized with alpha-beta pruning) and state-of-the-art Stockfish engine (capable of exploring billions of future possible moves).
-Techstack: Node.js, Express.js, TypeScript, React.js, WebSocket, NGINX.
+Techstack: TypeScript, Node.js, Express.js, React.js, WebSocket, NGINX.
 - ![600x200](../assets/chess_singleplayer_demo.gif)
 - Tags: Category 1
 - Badges:
@@ -11,7 +11,7 @@ Techstack: Node.js, Express.js, TypeScript, React.js, WebSocket, NGINX.
 
 ## MyKalory
 A calorie tracking app that incorporates camera-based food nutrition label scanning for easy nutrient input, leveraging Google Cloud Vision API for optical character recognition and Firebase for user authentication.
-Techstack: Django, React.js, PostgreSQL, Google Vision API, Firebase, NGINX.
+Techstack: Python, JavaScript, Django, React.js, PostgreSQL, Google Vision API, Firebase, NGINX.
 - ![600x200](../assets/my-kalory.gif)
 - Tags: Category 2
 - Badges:

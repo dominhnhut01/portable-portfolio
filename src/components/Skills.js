@@ -23,11 +23,11 @@ const deviconLinkArray = [
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
   ],
   [
-    "Express",
+    "ExpressJS",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
   ],
   [
-    "React",
+    "ReactJS",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg",
   ],
   [
