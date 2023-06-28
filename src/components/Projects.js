@@ -36,8 +36,8 @@ export default function Projects({ color }) {
             <Divider orientation="horizontal" />
           </Stack>
           <Stack px={4} spacing={4}>
-            {projects.map((project) => (
-              <Fade bottom>
+            {projects.map((project, index) => (
+              <Fade bottom key={index}>
                 <Card
                   key={project.name}
                   direction={{

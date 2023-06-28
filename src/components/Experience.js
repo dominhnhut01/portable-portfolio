@@ -52,8 +52,8 @@ export default function Experience({ color }) {
           <Stack px={4} spacing={4}>
             {experience
               .filter((exp) => exp.tags.includes(selected))
-              .map((exp) => (
-                <Fade bottom>
+              .map((exp, index) => (
+                <Fade bottom key={index}>
                   <Card key={exp.company} size="sm" py={4}>
                     <CardHeader>
                       <Flex justifyContent="space-between">

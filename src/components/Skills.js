@@ -1,4 +1,4 @@
-import { Divider, Stack, Text, Container, Box, HStack } from "@chakra-ui/react";
+import { Divider, Stack, Text, Container, Box, HStack, Wrap, WrapItem } from "@chakra-ui/react";
 import { Tooltip } from '@chakra-ui/react';
 
 const deviconLinkArray = [
@@ -71,9 +71,10 @@ export default function Skills({ color }) {
             </HStack>
             <Divider orientation="horizontal" />
           </Stack>
-          <HStack mx={4} align="center" justify="center">
+          <Wrap direction={['row']} mx={4} align="center" justify="center">
             {deviconLinkArray.map(([name, link], index) => {
               return (
+                <WrapItem key={index}>
                 <Tooltip label={name} placement="top">
                   <img
                     key={index}
@@ -92,9 +93,10 @@ export default function Skills({ color }) {
                     }}
                   />
                 </Tooltip>
+                </WrapItem>
               );
             })}
-          </HStack>
+          </Wrap>
         </Stack>
       </Container>
     </>
