@@ -8,7 +8,6 @@ import {
   Card,
   CardHeader,
   CardBody,
-  CardFooter,
   Badge,
   Flex,
   Image,
@@ -96,7 +95,7 @@ export default function Experience({ color }) {
                           </Badge>
                         ))}
                       </HStack>
-                      </CardBody>
+                    </CardBody>
                   </Card>
                 </Fade>
               ))}
