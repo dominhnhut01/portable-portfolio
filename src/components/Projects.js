@@ -7,6 +7,7 @@ import {
   HStack,
   Button,
   Card,
+  Badge,
   CardBody,
   Image,
   Heading,
@@ -52,7 +53,6 @@ export default function Projects({ color }) {
                       <Heading size="md">{project.name}</Heading>
 
                       <Text py={2}>{project.description}</Text>
-                      <Text py={2}>{project.techstack}</Text>
                       <HStack py={2}>
                         {project.buttons.map((button) => (
                           <div key={button.text} >
@@ -62,6 +62,16 @@ export default function Projects({ color }) {
                               {button.text}
                             </Button>
                           </div>
+                        ))}
+                      </HStack>
+                      <HStack pt={4} spacing={2}>
+                        {project.badges.map((badge) => (
+                          <Badge
+                            key={badge.text}
+                            colorScheme={badge.colorScheme}
+                          >
+                            {badge.text}
+                          </Badge>
                         ))}
                       </HStack>
                       

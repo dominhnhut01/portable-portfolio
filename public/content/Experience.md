@@ -3,7 +3,10 @@
 - ![logo512](../assets/miami_logo.png)
 - Tags: Category 1
 - Badges:
-  - Badge [blue]
+  - TypeScript [blue]
+  - Node.js [blue]
+  - WebSocket [blue]
+  - OpenAI API [blue]
 - List Items:
   - Developed smart chatbot with OpenAI GPT-4 API and Node.js (TypeScript), assisting 20,000 students.
   -  Designed communication interface between chatbot and library internal API, enabling accurate book recommendations, study room reservations, and information search and retrieval via natural language.
@@ -14,7 +17,8 @@
 - ![logo512](../assets/miami_logo.png)
 - Tags: Category 1
 - Badges:
-  - Badge [blue]
+  - Python [blue]
+  - PyTorch [blue]
 - List Items:
   - Supported a diverse group of 60+ students in their understanding of Machine Learning and PyTorch through engaging office hours and comprehensive exam review sessions.
   - Led weekly labs, provided feedback on assignments and labs, and graded assessments.
@@ -24,7 +28,11 @@
 - ![logo320](../assets/cyobot.svg)
 - Tags: Category 1
 - Badges:
-  - Badge [blue]
+  - C++ [blue]
+  - Python [blue]
+  - OpenCV [blue]
+  - sklearn [blue]
+  - PyTorch [blue]
 - List Items:
   - Delivered 12 computer vision project tutorials and codes for instructing college students.
   - Projects included real-time projectile motion predictor, building and training lane detection machine learning model for a simulated self-driving car, MNIST digit classification, document mobile scanner, and hand-sign real-time detector.
@@ -35,7 +43,10 @@
 - ![logo512](../assets/miami_logo.png)
 - Tags: Category 1
 - Badges:
-  - Badge [blue]
+  - C++ [blue]
+  - Python [blue]
+  - ROS [blue]
+  - OpenCV [blue]
 - List Items:
   - Acted as the sole sophomore lab assistant in a senior-level course.
   - Built 14 C++ code bases for Robot Operating System (ROS) and Computer Vision labs.

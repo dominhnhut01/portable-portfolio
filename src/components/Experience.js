@@ -8,6 +8,8 @@ import {
   Card,
   CardHeader,
   CardBody,
+  CardFooter,
+  Badge,
   Flex,
   Image,
   List,
@@ -84,7 +86,17 @@ export default function Experience({ color }) {
                           ))}
                         </List>
                       </Flex>
-                    </CardBody>
+                      <HStack spacing={2} px={2} pt={4}>
+                        {exp.badges.map((badge) => (
+                          <Badge
+                            key={badge.name}
+                            colorScheme={badge.colorScheme}
+                          >
+                            {badge.name}
+                          </Badge>
+                        ))}
+                      </HStack>
+                      </CardBody>
                   </Card>
                 </Fade>
               ))}
