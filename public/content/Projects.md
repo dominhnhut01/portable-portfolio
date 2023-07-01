@@ -14,7 +14,7 @@ An online chess platform with multiplayer games and AI opponents, including mini
   - GitHub [https://github.com/dominhnhut01/chessgame_webapp]
 
 ## MyKalory
-A calorie tracking app that incorporates camera-based food nutrition label scanning for easy nutrient input, leveraging Google Cloud Vision API for optical character recognition and Firebase for user authentication.
+A calorie tracking web app that incorporates camera-based food nutrition label scanning for easy nutrient input, leveraging Google Cloud Vision API for optical character recognition and Firebase for user authentication.
 - ![600x200](../assets/my-kalory.gif)
 - Tags: Category 2
 - Badges:

@@ -8,9 +8,10 @@
   - WebSocket [blue]
   - OpenAI API [blue]
 - List Items:
-  - Developed smart chatbot with OpenAI GPT-4 API and Node.js (TypeScript), assisting 20,000 students.
-  -  Designed communication interface between chatbot and library internal API, enabling accurate book recommendations, study room reservations, and information search and retrieval via natural language.
-  - Collaborated with cross-functional teams to integrate API, conduct testing, and optimize performance.
+  - Built a production-ready chatbot with Node.js (TypeScript) and OpenAI GPT-4 API, serving 20,000 students.
+  - Designed infrastructure to allow chatbot to interact with the Internet and library internal API, enabling accurate book recommendations, study room reservations, hardware rental, and information retrieval.
+  - Implemented time collision handling for study room reservation features, ensuring conflict-free bookings.
+  - Collaborated with the front-end team to ensure seamless interaction between the back-end and front-end components through effective API design.
 
 ## Miami University
 - *Graduate Teaching Assistant* | Jan 2023 - May 2023
