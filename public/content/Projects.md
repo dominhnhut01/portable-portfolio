@@ -1,5 +1,5 @@
 ## ChessLand
-An online chess platform with multiplayer games and AI opponents, including minimax search engine (optimized with alpha-beta pruning) and state-of-the-art Stockfish engine (capable of exploring billions of future possible moves).
+An online chess platform with multiplayer games and AI opponents, including minimax chess engine (optimized with alpha-beta pruning) and state-of-the-art Stockfish chess engine (capable of exploring billions of future possible moves).
 - ![600x200](../assets/chess_singleplayer_demo.gif)
 - Tags: Category 1
 - Badges:

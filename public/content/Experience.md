@@ -8,8 +8,8 @@
   - WebSocket [blue]
   - OpenAI API [blue]
 - List Items:
-  - Built a production-ready chatbot with Node.js (TypeScript) and OpenAI GPT-4 API, serving 20,000 students.
-  - Designed infrastructure to allow chatbot to interact with the Internet and library internal API, enabling accurate book recommendations, study room reservations, hardware rental, and information retrieval.
+  - Developed a production-ready conversational AI agent using Node.js (TypeScript) and OpenAI GPT-4 API to streamline and automate library services, ensuring 24/7 accessibility for 20,000 students.
+  -  Designed infrastructure to allow AI agent to interact with the Internet and library internal API, enabling book/article recommendations, study room reservations, hardware rental, and information retrieval.
   - Implemented time collision handling for study room reservation features, ensuring conflict-free bookings.
   - Collaborated with the front-end team to ensure seamless interaction between the back-end and front-end components through effective API design.
 
