@@ -35,8 +35,8 @@
   - sklearn [blue]
   - PyTorch [blue]
 - List Items:
-  - Delivered 12 computer vision project tutorials and codes for instructing college students.
-  - Projects included real-time projectile motion predictor, building and training lane detection machine learning model for a simulated self-driving car, MNIST digit classification, document mobile scanner, and hand-sign real-time detector.
+  - Delivered 12 computer vision project tutorials and Python and C++ codes for instructing college students.
+  - Projects included real-time projectile motion predictor, building and training lane detection machine learning model for a simulated self-driving car, document OCR mobile scanner, and hand-sign real-time detector.
   - Worked directly with the CTO in pair-programming, ensuring code quality and readability.
 
 ## Miami University
@@ -50,6 +50,6 @@
   - OpenCV [blue]
 - List Items:
   - Acted as the sole sophomore lab assistant in a senior-level course.
-  - Built 14 C++ code bases for Robot Operating System (ROS) and Computer Vision labs.
-  - Worked on publisher/subscriber and rosserial protocol connection, obstacle detection with Lidar sensor, and self-driving TurtleBot with image processing and proportional control.
+  - Constructed 14 C++ and Python code bases for Robot Operating System (ROS) and Computer Vision labs.
+  - Explored advanced topics such as obstacle detection and path-planning with Lidar sensor, and implemented self-driving capabilities on TurtleBot through image processing and proportional control.
   - Led weekly labs, providing guidance and support to students during hands-on sessions.
