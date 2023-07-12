@@ -75,7 +75,7 @@ export default function Projects({ color }) {
                           </div>
                         ))}
                       </HStack>
-                      <HStack pt={4} spacing={2}>
+                      <HStack flexWrap="wrap" pt={4} spacing={2}>
                         {project.badges.map((badge) => (
                           <Badge
                             key={badge.text}

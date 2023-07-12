@@ -43,6 +43,10 @@ const deviconLinkArray = [
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg",
   ],
   [
+    "AWS",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+  ],
+  [
     "PyTorch",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg",
   ],
@@ -80,7 +84,7 @@ export default function Skills({ color }) {
                     key={index}
                     src={link}
                     alt={`Devicon ${index}`}
-                    width="50"
+                    width="45"
                     style={{
                       transition: "transform 0.3s",
                       cursor: "pointer",

@@ -9,9 +9,10 @@
   - OpenAI API [blue]
 - List Items:
   - Developed a production-ready conversational AI agent using Node.js (TypeScript) and OpenAI GPT-4 API to streamline and automate library services, ensuring 24/7 accessibility for 20,000 students.
-  -  Designed infrastructure to allow AI agent to interact with the Internet and library internal API, enabling book/article recommendations, study room reservations, hardware rental, and information retrieval.
-  - Implemented time collision handling for study room reservation features, ensuring conflict-free bookings.
-  - Collaborated with the front-end team to ensure seamless interaction between the back-end and front-end components through effective API design.
+  -  Redesigned infrastructure to allow AI agent to interact with library internal API, enabling book/article recommendations, study room reservations, hardware rental, and information retrieval.
+  - Designed PostgreSQL database schema with Prisma to log conversation data for cost and usage analysis.
+  - Implemented time collision handling feature for study room reservation system.
+  - Collaborated with the front-end (React.js) team to ensure effective API design.
 
 ## Miami University
 - *Graduate Teaching Assistant* | Jan 2023 - May 2023
@@ -35,9 +36,9 @@
   - sklearn [blue]
   - PyTorch [blue]
 - List Items:
-  - Delivered 12 computer vision project tutorials and Python and C++ codes for instructing college students.
-  - Projects included real-time projectile motion predictor, building and training lane detection machine learning model for a simulated self-driving car, document OCR mobile scanner, and hand-sign real-time detector.
-  - Worked directly with the CTO in pair-programming, ensuring code quality and readability.
+  - Constructed 12 computer vision project tutorials and Python and C++ codes targeted for college students.
+  - Projects included real-time projectile motion predictor (C++, OpenCV), building and training lane detection machine learning model for a simulated self-driving car (PyTorch), document OCR mobile scanner (OpenCV), and hand-sign real-time detector (OpenCV).
+  - Collaborated directly with the CTO in pair-programming and unit testing, ensuring code quality and readability.
 
 ## Miami University
 - *Lab Assistant* | Aug 2021 - May 2022

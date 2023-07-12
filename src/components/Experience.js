@@ -85,7 +85,7 @@ export default function Experience({ color }) {
                           ))}
                         </List>
                       </Flex>
-                      <HStack spacing={2} px={2} pt={4}>
+                      <HStack flexWrap="wrap" spacing={2} px={2} pt={4}>
                         {exp.badges.map((badge) => (
                           <Badge
                             key={badge.name}

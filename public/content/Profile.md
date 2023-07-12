@@ -1,8 +1,8 @@
 ## Site Name
-- Steve Do Portfolio
+- Steven Do Portfolio
 
 ## Header
-- Steve Do. 
+- Steven Do. 
 - Senior CS Student.
 
 ## About
