@@ -6,8 +6,8 @@
 - Senior CS Student.
 
 ## About
-I'm a rising senior Computer Science student at Miami University seeking entry-level positions in Software Engineering.
-I specialize in Back-end Engineering and Machine Learning. My expertise lies in TypeScript, Python, Java, and C++, utilizing Node.js, Express.js, Django, React.js, PostgreSQL, SQLite, MongoDB, PyTorch, Tensorflow, and HTML/CSS in my tech stack.
+I'm a rising senior Computer Science student at Miami University, graduating in May 2024, seeking entry-level positions in Software Engineering.
+I specialize in Back-end Engineering and Machine Learning. My expertise lies in TypeScript, Python, Java, and C++, utilizing Node.js, Express.js, Django, React.js, PostgreSQL, SQLite, MongoDB, PyTorch, Tensorflow, and HTML/CSS.
 
 ## Contact
 Write your "Contact" section here.
