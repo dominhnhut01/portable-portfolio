@@ -1,6 +1,6 @@
-## Miami University
-- *Lab Assistant* | Aug 2021 - May 2022
-- ![logo512](../assets/medpace_logo.png)
+## Medpace
+- *Software Engineer Intern* | Sep 2023 - Current
+- ![logo512](../assets/medpace-logo.png)
 - Tags: Category 1
 - Badges:
   - C# [blue]
