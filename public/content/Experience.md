@@ -1,3 +1,29 @@
+## Miami University
+- *Lab Assistant* | Aug 2021 - May 2022
+- ![logo512](../assets/medpace_logo.png)
+- Tags: Category 1
+- Badges:
+  - C# [blue]
+  - ASP.Net [blue]
+  - TypeScript [blue]
+  - Angular.js [blue]
+  - SQL Server [blue]
+- List Items:
+  - Developed, deployed, and maintained C# and ASP.NET enterprise software for clinical research evaluation, using N-Tier Architecture
+  - Collaborated with cross-functional teams to collect, meticulously analyzed, and comprehensively documented user requirements, ensuring alignment with project goals.
+  - Employed Agile-Scrum practices to streamline development processes, enabling rapid feature delivery.
+
+## Miami University
+- *Graduate Teaching Assistant* | Jan 2023 - Current
+- ![logo512](../assets/miami_logo.png)
+- Tags: Category 1
+- Badges:
+  - Python [blue]
+  - PyTorch [blue]
+- List Items:
+  - Supported a diverse group of 60+ students in their understanding of Machine Learning and PyTorch through engaging office hours and comprehensive exam review sessions.
+  - Led weekly labs, provided feedback on assignments and labs, and graded assessments.
+
 ## Library System - Miami University
 - *Software Developer* | May 2023 - Aug 2023
 - ![logo512](../assets/miami_logo.png)
@@ -14,17 +40,6 @@
   - Implemented time collision handling feature for study room reservation system.
   - Collaborated with the front-end (React.js) team to ensure effective API design.
 
-## Miami University
-- *Graduate Teaching Assistant* | Jan 2023 - May 2023
-- ![logo512](../assets/miami_logo.png)
-- Tags: Category 1
-- Badges:
-  - Python [blue]
-  - PyTorch [blue]
-- List Items:
-  - Supported a diverse group of 60+ students in their understanding of Machine Learning and PyTorch through engaging office hours and comprehensive exam review sessions.
-  - Led weekly labs, provided feedback on assignments and labs, and graded assessments.
-
 ## CYOBot - Edtech startup
 - *Software Engineer Intern* | May 2022 - Aug 2022
 - ![logo320](../assets/cyobot.svg)
@@ -39,18 +54,3 @@
   - Constructed 12 computer vision project tutorials and Python and C++ codes targeted for college students.
   - Projects included real-time projectile motion predictor (C++, OpenCV), building and training lane detection machine learning model for a simulated self-driving car (PyTorch), document OCR mobile scanner (OpenCV), and hand-sign real-time detector (OpenCV).
   - Collaborated directly with the CTO in pair-programming and unit testing, ensuring code quality and readability.
-
-## Miami University
-- *Lab Assistant* | Aug 2021 - May 2022
-- ![logo512](../assets/miami_logo.png)
-- Tags: Category 1
-- Badges:
-  - C++ [blue]
-  - Python [blue]
-  - ROS [blue]
-  - OpenCV [blue]
-- List Items:
-  - Acted as the sole sophomore lab assistant in a senior-level course.
-  - Constructed 14 C++ and Python code bases for Robot Operating System (ROS) and Computer Vision labs.
-  - Explored advanced topics such as obstacle detection and path-planning with Lidar sensor, and implemented self-driving capabilities on TurtleBot through image processing and proportional control.
-  - Led weekly labs, providing guidance and support to students during hands-on sessions.
