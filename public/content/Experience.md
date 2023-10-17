@@ -9,8 +9,8 @@
   - Angular.js [blue]
   - SQL Server [blue]
 - List Items:
-  - Developed, deployed, and maintained C# and ASP.NET enterprise software for clinical research evaluation, using N-Tier Architecture
-  - Collaborated with cross-functional teams to collect, meticulously analyzed, and comprehensively documented user requirements, ensuring alignment with project goals.
+  - Developed, debugging, and resolved defects on ASP.NET and Angular enterprise software.
+  - Maintained and managed the dependencies of multiple C# and Angular projects.
   - Employed Agile-Scrum practices to streamline development processes, enabling rapid feature delivery.
 
 ## Miami University

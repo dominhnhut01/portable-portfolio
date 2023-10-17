@@ -26,7 +26,7 @@ export default function Header({ color }) {
   };
   const resume = () => {
     window.open(
-                `https://drive.google.com/file/d/18o6ESn4qG3wJ6jX2fm5v6USed7vAh-Tf/view?usp=sharing`,
+                `https://drive.google.com/file/d/1yn2AG-Pi7MJY1bWnwvuGCZMFsvKfkbYS/view?usp=sharing`,
                 "_blank",
                 "noreferrer,noopener"
               );
